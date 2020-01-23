@@ -1,0 +1,26 @@
+/* comment */
+ p {     color:blue;
+        text-align:right;
+     }
+body {
+    font-style:italic;
+    color:red;
+    text-align:center;
+}
+.Class_A{
+    color:yellow;
+}
+.font_1{
+          
+          background-color: black;
+          color:yellow;
+          font-size: large;
+      }
+      .font_2{
+          background-color: darkblue;
+          color:white;
+          font-size: medium;
+      }
+h2,h3{
+    text-shadow: 2px 2px 8px #FF0000;
+}
